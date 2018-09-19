@@ -14,6 +14,7 @@
 		BA697D7E2152589200FE7F14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA697D7C2152589200FE7F14 /* LaunchScreen.storyboard */; };
 		BA697D892152589200FE7F14 /* MagicalViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA697D882152589200FE7F14 /* MagicalViewTests.swift */; };
 		BA697D942152589200FE7F14 /* MagicalViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA697D932152589200FE7F14 /* MagicalViewUITests.swift */; };
+		BA697DA2215258B100FE7F14 /* FantasticViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA697DA1215258B100FE7F14 /* FantasticViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BA697D8F2152589200FE7F14 /* MagicalViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MagicalViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA697D932152589200FE7F14 /* MagicalViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicalViewUITests.swift; sourceTree = "<group>"; };
 		BA697D952152589200FE7F14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA697DA1215258B100FE7F14 /* FantasticViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FantasticViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				BA697D732152588D00FE7F14 /* AppDelegate.swift */,
+				BA697DA1215258B100FE7F14 /* FantasticViews.swift */,
 				BA697D752152588D00FE7F14 /* ViewController.swift */,
 				BA697D772152588D00FE7F14 /* Main.storyboard */,
 				BA697D7A2152589200FE7F14 /* Assets.xcassets */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA697DA2215258B100FE7F14 /* FantasticViews.swift in Sources */,
 				BA697D762152588D00FE7F14 /* ViewController.swift in Sources */,
 				BA697D742152588D00FE7F14 /* AppDelegate.swift in Sources */,
 			);
